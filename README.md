@@ -4,9 +4,8 @@
 
 🌱 Estoy aprendiendo constantemente y siempre buscando formas de mejorar mis habilidades en tecnologias como [**Angular, NodeJS, MongoDB y más**] . 
 
-📫 Puedes encontrarme en las siguientes plataformas:
+📫 Puedes conocer más sobre mí y mi trabajo en:
 
-- GitHub: [Mi perfil de Github](https://github.com/BarrierHT)
 - LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/facundo-romero-104353233)
 - [Mi Curriculum](https://drive.google.com/file/d/1xXK2PF8xqKYaxynUlxOH7UQuuQf-AZ6e/view?usp=drive_link)
 - [Mi portfolio](https://sites.google.com/view/romero1807portfolio/home)
