@@ -7,5 +7,5 @@
 📫 Puedes conocer más sobre mí y mi trabajo en:
 
 - LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/facundo-romero-104353233)
-- [Mi Curriculum](https://drive.google.com/file/d/1xXK2PF8xqKYaxynUlxOH7UQuuQf-AZ6e/view?usp=drive_link)
+- [Mi Curriculum](https://drive.google.com/file/d/1tOmrgf0JBnhDE0M54GrX47quKZd92rxk/view?usp=sharing)
 - [Mi portfolio](https://sites.google.com/view/romero1807portfolio/home)
