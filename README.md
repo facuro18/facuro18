@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Freelance**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Nest, TypeORM**
 
 - 💬 Ask me about **React, NodeJS, MongoDB, MySQL**
 
