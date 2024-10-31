@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working as **Freelance**
+- 🔭 I’m currently working as **Back-end Developer at MPA**
 
-- 🌱 I’m currently learning **Nest, TypeORM**
+- 🌱 I’m currently learning **Nest, TypeORM** 
 
-- 💬 Ask me about **React, NodeJS, MongoDB, MySQL**
+- 💬 Ask me about **NodeJS, MongoDB, MySQL, TS**
 
 - 📫 How to reach me **facuro1807@gmail.com**
 
