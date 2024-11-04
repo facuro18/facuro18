@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Back-end Developer at MPA**
 
-- 🌱 I’m currently learning **Nest, TypeORM** 
+- 🌱 I’m currently learning **NestJS, TypeORM** 
 
 - 💬 Ask me about **NodeJS, MongoDB, MySQL, TS**
 
