@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as **Back-end Developer at MPA**
 
-- 🌱 I’m currently learning **NestJS, TypeORM** 
+- 🌱 I’m currently learning **Patterns** 
 
-- 💬 Ask me about **NodeJS, MongoDB, MySQL, TS**
+- 💬 Ask me about **NodeJS, TS, NestJS, SQL, NoSQL**
 
 - 📫 How to reach me **facuro1807@gmail.com**
 
@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,tailwind,javascript,typescript,nodejs,expressjs,cpp,cs,mongodb,mysql,postgres,graphql,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,nestjs,docker,cpp,cs,dotnet,mongodb,mysql,postgres,graphql,angular,react,redux,html,css,bootstrap,tailwind,bash,git" />
   </a>
 </p>
 
