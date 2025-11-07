@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently looking for options
+- 🔭 I’m currently working for **Poder Judicial de Jujuy** and **Corralón el Mercado** 
 
 - 🌱 I’m currently learning **Patterns** 
 
