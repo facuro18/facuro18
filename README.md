@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Patterns** 
 
-- 💬 Ask me about **NodeJS, TS, NestJS, SQL, NoSQL**
+- 💬 Ask me about **NestJS, SQL, NoSQL, .NET**
 
 - 📫 How to reach me **facuro1807@gmail.com**
 
