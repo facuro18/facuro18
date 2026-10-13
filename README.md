@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">Full Stack Web Developer from Argentina</h3>
 
-- 🔭 I’m currently working for **Corralón el Mercado** 
+- 🔭 I’m currently looking for new opportunities
 
 - 🌱 I’m currently learning **Patterns** 
 
