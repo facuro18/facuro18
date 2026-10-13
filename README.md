@@ -11,15 +11,12 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <!-- icons -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,nestjs,docker,cpp,cs,dotnet,mongodb,mysql,postgres,graphql,angular,react,redux,html,css,bootstrap,tailwind,git" />
+<p align="left"> 
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,expressjs,nestjs,docker,cpp,cs,dotnet,mongodb,mysql,postgres,graphql,angular,react,redux,html,css,bootstrap,tailwind,git" /> 
   </a>
 </p>
 
 <p>
-  <img align="left" src="https://herokuapp.com" alt="facuro18" />
-  <img align="right" src="https://vercel.app" alt="facuro18" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=facuro18&" alt="facuro18" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=facuro18&show_icons=true&locale=en&layout=compact" alt="facuro18" />
 </p>
-
